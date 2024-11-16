@@ -1,5 +1,11 @@
 # @gradio/core
 
+## 0.4.1
+
+### Fixes
+
+- [#9822](https://github.com/gradio-app/gradio/pull/9822) [`2e2cdbf`](https://github.com/gradio-app/gradio/commit/2e2cdbfb609ca992ccc31bb38589486aaaa14012) - Fix css preload when serving from proxied subpaths.  Thanks @amol-!
+
 ## 0.4.0
 
 ### Features
